@@ -1,0 +1,37 @@
+.scene{
+    display: grid;
+    justify-content: center;
+    margin-top: 55px;
+}
+
+.bunda{
+    display: flex;
+    justify-content: space-between;
+}
+
+.badgyal{
+    display: flex;
+    justify-content: space-between;
+}
+
+.fresh{
+    display: flex;
+    justify-content: space-between;
+}
+
+.shawty{
+    display: flex;
+    justify-content: space-between;
+}
+
+.wagwan{
+    display: flex;
+    justify-content: space-between;
+}
+
+.trap{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 130px;
+    margin-left: 180px;
+}
